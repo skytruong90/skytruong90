@@ -1,5 +1,6 @@
-### Hi, My name is David Tan 👋
-### Welcome to my Github!!
+### Hi there 👋 
+### My name is David Tan, Welcome to my Github!!
+I am passionate in Cybersecurity and come check out my projects
 <!--
 **skytruong90/skytruong90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
