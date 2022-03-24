@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, My name is David Tan 👋
 
 <!--
 **skytruong90/skytruong90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skytruong90&theme=radical)
+
+⚡ Connect with me:
