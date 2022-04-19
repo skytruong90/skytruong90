@@ -4,7 +4,7 @@
 ### Hi, there 👋 
 ### My name is David and Welcome to my Github!!
 ### I am currently pursing two Masters degree: CyberSecurity (Ga Tech) & MBA (LSU)
-### Please check out my projects
+### Please, check out my projects
 
 ### ⚡ My Website:
 ### www.dktan.com
