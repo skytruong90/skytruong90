@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 
 
 
-### ⚡ Connect with me:
+### ⚡ My Website:
 ### www.dktan.com
