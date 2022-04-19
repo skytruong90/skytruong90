@@ -1,10 +1,10 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--PJZtCgZz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hwuxnz09e8mhfl7tl9c.gif)](https://rishavchanda.io)
 
 
-### Hi there 👋 
-### My name is David Tan, Welcome to my Github!!
-### I am currently pursing two Masters: CyberSecurity & MBA
-### Please come check out my projects
+### Hi, there 👋 
+### My name is David Tan and Welcome to my Github!!
+### I am currently pursing two Masters: CyberSecurity (Ga Tech) & MBA (LSU)
+### Please check out my projects
 
 <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/b4fa1c3f8396f4cca9efc5ba95115f08dae17d7855e3aef106c2ab74ea44ab09/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62642f34652f64332f62643465643332373138396332613536363935626562393163643533343537302e676966" />
 
