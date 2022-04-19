@@ -3,7 +3,7 @@
 
 ### Hola! 👋 
 ### My name is David and Welcome to my Github!!
-### I am currently pursing two Masters degree: CyberSecurity (Ga Tech) & MBA (LSU)
+### I am currently pursing 2 Masters degree: CyberSecurity (Ga Tech) & MBA (LSU)
 ### Please, check out my projects
 
 ### ⚡ My Website:
