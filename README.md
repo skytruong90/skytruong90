@@ -2,7 +2,7 @@
 
 
 ### Hi, there 👋 
-### My name is David Tan and Welcome to my Github!!
+### My name is David and Welcome to my Github!!
 ### I am currently pursing two Masters: CyberSecurity (Ga Tech) & MBA (LSU)
 ### Please check out my projects
 
