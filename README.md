@@ -6,7 +6,7 @@
 ### I am currently pursing 2 Master's degrees: CyberSecurity (Ga Tech) & MBA (LSU)
 ### Please, come and check out my projects...
 
-### :desktop_computer: My Website: www.dktan.com
+### :desktop_computer:  My Website: www.dktan.com
 
 <img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/b4fa1c3f8396f4cca9efc5ba95115f08dae17d7855e3aef106c2ab74ea44ab09/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62642f34652f64332f62643465643332373138396332613536363935626562393163643533343537302e676966" />
 
