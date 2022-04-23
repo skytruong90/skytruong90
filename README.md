@@ -4,7 +4,7 @@
 ### Hola, :raising_hand_man:
 ### My name is David and Welcome to my Github!!
 ### I am currently pursing 2 Master's degrees: CyberSecurity (Ga Tech) & MBA (LSU) :trophy:
-### :jigsaw: Please, come and check out my projects...
+### :jigsaw: Please go to my "Respositories" check out all of my latest projects :jigsaw: 
 
 ### :desktop_computer: My Website: www.dktan.com
 
