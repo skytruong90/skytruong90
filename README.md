@@ -3,7 +3,7 @@
 
 # Hi there, :raising_hand_man:
 ### Welcome to my Github, my name is David
-### I am currently fininshing my CS @ Valdosta State University (2022), I am pursing 2 Master's degrees: CyberSecurity with a concentation in Information Security @ Ga Tech & Master of Business Administration @ Louisiana State University this Fall of 2022 :trophy:
+### I am currently fininshing my Computer Science degree @ Valdosta State University (2022), I am pursing 2 Master's degrees: CyberSecurity with a concentation in Information Security @ Ga Tech & Master of Business Administration @ Louisiana State University this Fall of 2022 :trophy:
 ### :jigsaw: Please go to my "Respositories" and check out all of my latest projects :jigsaw: 
 
 ## :desktop_computer: My Website: https://www.dtan.org
