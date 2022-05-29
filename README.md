@@ -2,7 +2,7 @@
 
 
 # Hi there, :raising_hand_man:
-### My name is David and Welcome to my Github!!
+### Welcome to my Githbu, my name is David,
 ### I am currently fininshing my CS @ Valdosta State University (2022), I am pursing 2 Master's degrees: CyberSecurity (Ga Tech) & MBA (LSU) Fall of 2022 :trophy:
 ### :jigsaw: Please go to my "Respositories" and check out all of my latest projects :jigsaw: 
 
