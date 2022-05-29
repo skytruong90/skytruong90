@@ -3,7 +3,7 @@
 
 # Hi there, :raising_hand_man:
 ### My name is David and Welcome to my Github!!
-### I am currently pursing 2 Master's degrees: CyberSecurity (Ga Tech) & MBA (LSU) :trophy:
+### I am currently fininshing my CS @ VSU (2022), I am pursing 2 Master's degrees: CyberSecurity (Ga Tech) & MBA (LSU) :trophy:
 ### :jigsaw: Please go to my "Respositories" and check out all of my latest projects :jigsaw: 
 
 ## :desktop_computer: My Website: https://www.dtan.org
