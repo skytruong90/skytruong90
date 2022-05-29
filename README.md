@@ -7,7 +7,7 @@
 
 ### :jigsaw: Please feel free to go to my "Respositories" and check out all of my latest projects :jigsaw: 
 
-## :desktop_computer: My Website: https://www.dtan.org
+## :desktop_computer: My Website: https://www.dtan.org :desktop_computer:
 
 ## :zap: My Certifications: https://tinyurl.com/25vyrvbr :zap:
 
