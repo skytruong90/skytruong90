@@ -5,7 +5,7 @@
 ### Welcome to my Github, my name is David:
 ### I graduated from University of Georiga and is currently fininshing up my Computer Science degree from Valdosta State University (2022), I am pursing 2 different Master's degrees (2022): 1. Cybersecurity w/ a concentration in Information Security @ Ga Tech & 2. Master of Business Administration @ Louisiana State University :trophy:
 
-### :jigsaw: Please feel free to check out my "Respositories" and check out all of my latest projects :jigsaw: 
+### :jigsaw: Please feel free to check out my "Respositories" for all of my latest projects :jigsaw: 
 
 ## :desktop_computer: My Website: https://www.dtan.org :desktop_computer:
 
