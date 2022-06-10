@@ -1,7 +1,7 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--PJZtCgZz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hwuxnz09e8mhfl7tl9c.gif)](https://rishavchanda.io)
 
 
-# Hi there, :raising_hand_man:
+# Hi There, :raising_hand_man:
 ### Welcome to my Github, my name is David:
 ### I graduated from University of Georiga and is currently fininshing up my Computer Science degree from Valdosta State University (2022), I am pursing 2 different Master's degrees (2022): 1. Cybersecurity w/ a concentration in Information Security @ Ga Tech & 2. Master of Business Administration @ Louisiana State University :trophy: :trophy: :trophy:
 
