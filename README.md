@@ -3,9 +3,7 @@
 
 # Hi There, :raising_hand_man:
 ### Welcome to my Github, my name is David:
-### I graduated from University of Georiga and have another Bachelor in Computer Science from Valdosta State University. Currently, I am pursing 2 Master's degrees:
-1. Computer Science @ Georgia Tech :trophy:
-2. MBA @ LSU :trophy: 
+### I graduated from University of Georiga and have another Bachelor in Computer Science from Valdosta State University. Currently, I am pursing 2 Master's degrees: Computer Science @ Georgia Tech :trophy:and a MBA @ LSU :trophy: 
 
 ### :jigsaw: Please feel free to check out my "Respositories" for all of my latest projects :jigsaw: 
 
