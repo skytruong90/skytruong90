@@ -1,9 +1,8 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--PJZtCgZz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hwuxnz09e8mhfl7tl9c.gif)](https://rishavchanda.io)
 
-
 # Hi There, :raising_hand_man:
-### Welcome to my Github, my name is David:
-### I graduated from University of Georiga and have another Bachelor in Computer Science from Valdosta State University. Currently, I am pursing 2 Master's degrees: Computer Science @ Georgia Tech :trophy:and a MBA @ LSU :trophy: 
+### My name is David and I am delighted to welcome you to my Github profile.
+### I have completed my Bachelor's degree in Computer Science from Valdosta State University and graduated from the University of Georgia. Currently, I am pursuing dual Master's degrees - one in Computer Science at Georgia Tech and the other in Business Administration at LSU. Thank you for visiting my profile and please feel free to reach out to me if you have any questions or would like to collaborate on a project :trophy: 
 
 ### :jigsaw: Please feel free to check out my "Respositories" for all of my latest projects :jigsaw: 
 
