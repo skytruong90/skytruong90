@@ -1,16 +1,17 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--PJZtCgZz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hwuxnz09e8mhfl7tl9c.gif)](https://rishavchanda.io)
 
 # Hi There, :raising_hand_man:
-### My name is David and I am delighted to welcome you to my Github profile.
-### I have completed my Bachelor's degree in Computer Science from Valdosta State University and graduated from the University of Georgia. Currently, I am pursuing dual Master's degrees - one in Computer Science at Georgia Tech and the other in Business Administration at LSU. Thank you for visiting my profile and please feel free to reach out to me if you have any questions or would like to collaborate on a project :trophy: 
+### My name is David Tan and I am delighted to welcome you to my Github profile.
+### I have completed my Bachelor's degree in Computer Science from Valdosta State University and graduated from the University of Georgia. Currently, I am pursuing dual Master's degrees - one in Computer Science at Georgia Tech and the other in Business Administration at LSU :trophy: 
+###Thank you for visiting my profile and please feel free to reach out to me if you have any questions or would like to collaborate on a project 
 
 ### :jigsaw: Please feel free to check out my "Respositories" for all of my latest projects :jigsaw: 
 
-## :desktop_computer: My Website: :desktop_computer:
+## :desktop_computer: My Website: www.dtan.org :desktop_computer:
 
-## :zap: My Certifications: :zap:
+## :zap: My Certifications: www.dtan.org :zap:
 
-## :newspaper: My Resume: 📰
+## :newspaper: My Resume: www.dtan.org 📰
 
 <img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/b4fa1c3f8396f4cca9efc5ba95115f08dae17d7855e3aef106c2ab74ea44ab09/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62642f34652f64332f62643465643332373138396332613536363935626562393163643533343537302e676966" />
 
