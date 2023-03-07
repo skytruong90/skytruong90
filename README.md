@@ -1,6 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--PJZtCgZz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hwuxnz09e8mhfl7tl9c.gif)](https://rishavchanda.io)
 
-# Hi There, :raising_hand_man:
+# Hey, :raising_hand_man:
 ### My name is David Tan & I am delighted to welcome you to my Github profile.
 ### I have completed my Bachelor's degree in Computer Science from Valdosta State University and graduated from the University of Georgia. Currently, I am pursuing dual Master's degrees - one in Computer Science at Georgia Tech and the other in Business Administration at LSU :trophy: 
 
