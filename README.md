@@ -10,7 +10,7 @@
 
 ## :desktop_computer: My Website: www.dtan.org :desktop_computer:
 
-## :zap: My Certifications: www.dtan.org :zap:
+## :zap: My Certifications: https://tinyurl.com/3jdcfhkp :zap:
 
 ## :newspaper: My Resume: www.dtan.org 📰
 
