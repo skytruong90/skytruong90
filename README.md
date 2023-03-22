@@ -2,7 +2,7 @@
 
 # :raising_hand_man: Hey, 
 ### My name is David Tan & I am delighted to welcome you to my Github profile.
-### I have completed my Bachelor's degree in Computer Science from Valdosta State University and graduated from the University of Georgia. Currently, I am pursuing dual Master's degrees - one in Computer Science at Georgia Tech and the other in Business Administration at LSU :trophy: 
+### I have completed my Bachelor's degree in Computer Science from Valdosta State University and graduated from the University of Georgia. Currently, I am pursuing dual Master's degrees - one in Computer Science at Arizona State University and the other in Business Administration at LSU :trophy: 
 
 ### Thank you for visiting my profile and please feel free to reach out to me if you have any questions or would like to collaborate on a project. 
 
