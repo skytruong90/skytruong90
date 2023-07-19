@@ -2,7 +2,7 @@
 
 # :raising_hand_man: Hey Everyone! 
 ### My name is David Tan & Welcome to my profile.
-### I have completed my Bachelor's degree in Computer Science from Valdosta State University and another Bachelor degree from the University of Georgia. Currently, I have a MBA in Data Analytic from Louisiana State University and is now pursuing another Master's degrees in Computer Science at Georgia Institute of Technology :trophy: 
+### I have completed my Bachelor's degree in Computer Science from Valdosta State University and a Master's degrees in Computer Science at Georgia Institute of Technology. Currently, I am pursing a PhD program in Computer Science :trophy: 
 
 ### Thank you for visiting my profile and please feel free to reach out to me if you have any questions or would like to collaborate on a project. Email: dtan68@gatech.edu
 
