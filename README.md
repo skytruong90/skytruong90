@@ -1,10 +1,10 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--PJZtCgZz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hwuxnz09e8mhfl7tl9c.gif)](https://rishavchanda.io)
 
 # :raising_hand_man: Hey Everyone! 
-### My name is David Tan & Welcome to my profile.
-### I have completed my Bachelor's degree in Computer Science from Valdosta State University, I got another Bachelor's degree from University of Georgia and 3 Master degrees: a MBA from Louisiana State University, Master in Computer Science from Arizona State University, and a Master in Data Science from Eastern University. I am planning to do a PhD program in Computer Science in my spare time :trophy: 
+### My name is David Tan 
+### Education: Bachelor's degree in Computer Science from Valdosta State University, Bachelor's degree in liberal arts from University of Georgia and 3 different Master degrees: an MBA from Louisiana State University, a Master in Computer Science from Arizona State University, and a Master in Data Science from Eastern University. I am planning to do a PhD program in Computer Science during my spare time :trophy: 
 
-### My goal is to work in the Software Engineering Field :trophy: 
+### My goal is to work as a Software Engineer for a company that will value my talent :trophy: 
 
 ### Thank you for visiting my profile and please feel free to reach out to me if you have any questions or would like to collaborate on a project. Email: dtan20@asu.edu
 
