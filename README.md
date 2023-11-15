@@ -2,12 +2,12 @@
 
 # :raising_hand_man: Hey Everyone! 
 ### My name is David Tan 
-### Education: Bachelor's degree in Computer Science from Valdosta State University, Bachelor's degree in liberal arts from University of Georgia and 3 different Master degrees: an MBA from Louisiana State University, a Master in Computer Science from Arizona State University, and a Master in Data Science from Eastern University. I am planning to do a PhD program in Computer Science during my spare time :trophy: 
+### Education: Bachelor's degree in Computer Science and 3 Master degrees: an MBA from Louisiana State University, a Master in Computer Science, and a Master in Data Science. I am planning to do a PhD program in Computer Science during my spare time :trophy: 
 
 ### My goal is to work as a Software Engineer for a company that will value my talent :trophy: 
 
 ### Thank you for visiting my profile and please feel free to reach out to me if you have any questions or would like to collaborate on any projects together. 
-### Email: dtan20@asu.edu
+### Email: dqtruong@valdosta.edu
 ### Phone Number: (404) 452-8263
 
 ### :jigsaw: Also, please feel free to check out my "Respositories" for all of my latest projects :jigsaw: 
