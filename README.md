@@ -11,6 +11,7 @@
 ### Thank you for visiting my profile and please feel free to reach out to me if you have any questions or would like to collaborate on any projects together. 
 
 ## Email: dqtruong@valdosta.edu
+
 ## Phone Number: (404) 452-8263
 
 ## My Youtube Channel: https://tinyurl.com/p8psyuhv
