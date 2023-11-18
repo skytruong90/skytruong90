@@ -6,13 +6,14 @@
 
 ### My goal is to work as a Software Engineer for a company that will value my talent :trophy: 
 
+### :jigsaw: Also, please feel free to check out my "Respositories" for all of my latest projects :jigsaw: 
+
 ### Thank you for visiting my profile and please feel free to reach out to me if you have any questions or would like to collaborate on any projects together. 
-### Email: dqtruong@valdosta.edu
-### Phone Number: (404) 452-8263
+
+## Email: dqtruong@valdosta.edu
+## Phone Number: (404) 452-8263
 
 ## My Youtube Channel: https://tinyurl.com/p8psyuhv
-
-### :jigsaw: Also, please feel free to check out my "Respositories" for all of my latest projects :jigsaw: 
 
 ## :desktop_computer: My Website: www.dtan.org :desktop_computer:
 
