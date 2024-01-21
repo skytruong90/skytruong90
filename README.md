@@ -4,7 +4,7 @@
 
 ## Name: David Kingsley Tan 
 
-### Objective: to work as a Software Engineer for a company that will value my talent :trophy: 
+### Objective: To work as a Software Engineer for a company that will value my talent :trophy: 
 
 ### Educations: Bachelor's degree in Computer Science and 4 Master degrees: an MBA, a Master in Computer Science, a Master in AI and a Master in Data Science :trophy: 
 
