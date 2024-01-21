@@ -16,8 +16,6 @@
 
 ## My Youtube Channel: https://tinyurl.com/p8psyuhv
 
-## My Website: https://www.dtan.org/
-
 ## :desktop_computer: My Website: www.dtan.org :desktop_computer:
 
 ## :zap: My Certifications: https://tinyurl.com/3jdcfhkp :zap:
