@@ -2,7 +2,7 @@
 
 # :raising_hand_man: Hey Everyone! 
 ### My name is David Tan 
-### Education: Bachelor's degree in Computer Science and 3 Master degrees: an MBA, a Master in Computer Science, and a Master in Data Science :trophy: 
+### Education: Bachelor's degree in Computer Science and 4 Master degrees: an MBA, a Master in Computer Science, a Master in Artificial Intelligence and a Master in Data Science :trophy: 
 
 ### My goal is to work as a Software Engineer for a company that will value my talent :trophy: 
 
@@ -15,6 +15,8 @@
 ## Phone Number: (404) 452-8263
 
 ## My Youtube Channel: https://tinyurl.com/p8psyuhv
+
+## My Website: https://www.dtan.org/
 
 ## :desktop_computer: My Website: www.dtan.org :desktop_computer:
 
