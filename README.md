@@ -1,24 +1,26 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--PJZtCgZz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hwuxnz09e8mhfl7tl9c.gif)](https://rishavchanda.io)
 
 # :raising_hand_man: Hey Everyone! 
-### My name is David Tan 
-### Education: Bachelor's degree in Computer Science and 4 Master degrees: an MBA, a Master in Computer Science, a Master in Artificial Intelligence and a Master in Data Science :trophy: 
 
-### My goal is to work as a Software Engineer for a company that will value my talent :trophy: 
+## Name: David Kingsley Tan 
 
-### :jigsaw: Also, please feel free to check out my "Respositories" for all of my latest projects :jigsaw: 
+### Objective: to work as a Software Engineer for a company that will value my talent :trophy: 
+
+### Educations: Bachelor's degree in Computer Science and 4 Master degrees: an MBA, a Master in Computer Science, a Master in Artificial Intelligence and a Master in Data Science :trophy: 
+
+### My Youtube Channel: https://tinyurl.com/p8psyuhv
+
+### :desktop_computer: My Website: www.dtan.org :desktop_computer:
+
+### :zap: My Certifications: https://tinyurl.com/3jdcfhkp :zap:
 
 ### Thank you for visiting my profile and please feel free to reach out to me if you have any questions or would like to collaborate on any projects together. 
 
-## Email: dqtruong@valdosta.edu
+### Email: dqtruong@valdosta.edu
 
-## Phone Number: (404) 452-8263
+### Phone Number: (404) 452-8263
 
-## My Youtube Channel: https://tinyurl.com/p8psyuhv
-
-## :desktop_computer: My Website: www.dtan.org :desktop_computer:
-
-## :zap: My Certifications: https://tinyurl.com/3jdcfhkp :zap:
+## :jigsaw: Also, please feel free to check out my "Respositories" for all of my latest projects :jigsaw: 
 
 <img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/b4fa1c3f8396f4cca9efc5ba95115f08dae17d7855e3aef106c2ab74ea44ab09/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62642f34652f64332f62643465643332373138396332613536363935626562393163643533343537302e676966" />
 
