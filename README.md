@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 
 <img align="left" width= "50%" src="https://github-readme-stats.vercel.app/api?username=skytruong90&show_icons=true&theme=radical" />
 
+
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
