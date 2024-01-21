@@ -22,8 +22,7 @@
 
 ## :jigsaw: Also, please feel free to check out my "Respositories" for all of my latest projects :jigsaw: 
 
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/b4fa1c3f8396f4cca9efc5ba95115f08dae17d7855e3aef106c2ab74ea44ab09/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62642f34652f64332f62643465643332373138396332613536363935626562393163643533343537302e676966" />
-
+<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
 <!--
 **skytruong90/skytruong90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
