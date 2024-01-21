@@ -14,7 +14,7 @@
 
 ### :zap: My Certifications: https://tinyurl.com/3jdcfhkp :zap:
 
-### Thank you for visiting my profile and please feel free to reach out to me if you have any questions or would like to collaborate on any projects together. 
+## Thank you for visiting my profile and please feel free to reach out to me if you have any questions or would like to collaborate on any projects together. 
 
 ### Email: dqtruong@valdosta.edu
 
