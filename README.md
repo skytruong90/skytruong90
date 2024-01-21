@@ -18,7 +18,7 @@
 
 ### Email: dqtruong@valdosta.edu
 
-### Phone Number: (404) 452-8263
+### Phone: (404) 452-8263
 
 ## :jigsaw: Also, please feel free to check out my "Respositories" for all of my latest projects :jigsaw: 
 
