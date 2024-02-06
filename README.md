@@ -1,26 +1,39 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--PJZtCgZz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hwuxnz09e8mhfl7tl9c.gif)](https://rishavchanda.io)
 
-# :raising_hand_man: Hey Everyone! 
+# :wave: Greetings, Everyone!
 
-## Name: David Kingsley Tan 
+## :bust_in_silhouette: About Me
+**Name:** David Kingsley Tan
 
-### Objective: To work as a Software Engineer for a company that will value my talent :trophy: 
+### :dart: Objective
+I am seeking a position as a Software Engineer within an organization that appreciates innovation, dedication, and my diverse skill set. My goal is to contribute to impactful projects and advance technological development.
 
-### Educations: Bachelor's degree in Computer Science and 4 Master degrees: an MBA, a Master in Computer Science, a Master in AI and a Master in Data Science :trophy: 
+### :mortar_board: Education
+- **Bachelor's Degree in Computer Science**
+- **Master's Degrees:**
+  - MBA
+  - Master in Computer Science
+  - Master in Artificial Intelligence
+  - Master in Data Science
 
-### My Youtube Channel: https://tinyurl.com/p8psyuhv
+### :link: Connect With Me
+- **YouTube Channel:** [Watch Here](https://tinyurl.com/p8psyuhv)
+- **Website:** [www.dtan.org](http://www.dtan.org)
+- **Certifications:** [View Certifications](https://tinyurl.com/3jdcfhkp)
 
-### :desktop_computer: My Website: www.dtan.org :desktop_computer:
+### :handshake: Let's Collaborate
+Thank you for visiting my profile! I'm open to inquiries, collaborations, and opportunities to contribute to exciting projects. Feel free to reach out!
 
-### :zap: My Certifications: https://tinyurl.com/3jdcfhkp :zap:
+- **Email:** dqtruong@valdosta.edu
+- **Phone:** (404) 452-8263
 
-## Thank you for visiting my profile and please feel free to reach out to me if you have any questions or would like to collaborate on any projects together. 
+### :file_folder: Explore My Work
+Check out my "Repositories" for a glimpse into my latest projects and contributions to the field of software engineering and data science.
 
-### Email: dqtruong@valdosta.edu
+---
 
-### Phone: (404) 452-8263
+Your interest and time are greatly appreciated. Let's connect and explore the possibilities of working together!
 
-## :jigsaw: Also, please feel free to check out my "Respositories" for all of my latest projects :jigsaw: 
 
 <!--
 **skytruong90/skytruong90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
