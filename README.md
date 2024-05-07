@@ -14,7 +14,7 @@ I am seeking a position as a Software Engineer within an organization that appre
   - MBA
   - Master in Computer Science
   - Master in Data Science
-- **Phd's Degree in Computer Science**
+- **Phd in Computer Science**
 
 ### :link: Connect With Me
 - **YouTube Channel:** [Watch Here](https://tinyurl.com/p8psyuhv)
