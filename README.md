@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytruong90&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="left" width= "50%" src="https://github-readme-stats.vercel.app/api?username=skytruong90&show_icons=true&theme=radical" />
+<img align="left" width= "60%" src="https://github-readme-stats.vercel.app/api?username=skytruong90&show_icons=true&theme=radical" />
 
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
