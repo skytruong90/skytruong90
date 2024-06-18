@@ -31,9 +31,6 @@ Check out my "Repositories" for a glimpse into my latest projects and contributi
 
 ---
 
-Your interest and time are greatly appreciated. Let's connect and explore the possibilities of working together!
-
-
 <!--
 **skytruong90/skytruong90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
