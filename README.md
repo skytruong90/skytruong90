@@ -1,6 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--PJZtCgZz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hwuxnz09e8mhfl7tl9c.gif)](https://rishavchanda.io)
 
-# :wave: Greetings, Everyone!
+# :wave: Hi, Everyone!
 
 ## :bust_in_silhouette: About Me
 **Name:** David Kingsley Tan
