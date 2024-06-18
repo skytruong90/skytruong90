@@ -13,8 +13,7 @@ I am seeking a position as a Software Engineer within an organization that appre
 - **Master's Degrees:**
   - MBA
   - Master in Computer Science
-  - Master in Data Science
-- **Phd in Computer Science**
+  - Master in Cybersecurity 
 
 ### :link: Connect With Me
 - **YouTube Channel:** [Watch Here](https://tinyurl.com/p8psyuhv)
