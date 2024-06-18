@@ -5,10 +5,10 @@
 ## :bust_in_silhouette: About Me
 **Name:** David Kingsley Tan
 
-### :dart: Objective
+### :dart: Objective:
 I am seeking a position as a Software Engineer within an organization that appreciates innovation, dedication, and my diverse skill set. My goal is to contribute to impactful projects and advance technological development.
 
-### :mortar_board: Education
+### :mortar_board: Educations:
 - **Bachelor's Degree in Computer Science** 2022
 - **Master's Degrees:**
   - MBA 2023
