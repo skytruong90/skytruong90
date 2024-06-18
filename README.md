@@ -9,11 +9,11 @@
 I am seeking a position as a Software Engineer within an organization that appreciates innovation, dedication, and my diverse skill set. My goal is to contribute to impactful projects and advance technological development.
 
 ### :mortar_board: Education
-- **Bachelor's Degree in Computer Science**
+- **Bachelor's Degree in Computer Science** 2022
 - **Master's Degrees:**
-  - MBA
-  - Master in Computer Science
-  - Master in Cybersecurity 
+  - MBA 2023
+  - Master in Computer Science 2026
+  - Master in Cybersecurity 2025
 
 ### :link: Connect With Me
 - **YouTube Channel:** [Watch Here](https://tinyurl.com/p8psyuhv)
