@@ -17,7 +17,6 @@ I am seeking a position as a Software Engineer within an organization that appre
 
 ### :link: Connect With Me
 - **YouTube Channel:** [Watch Here](https://tinyurl.com/p8psyuhv)
-- **Website:** [www.dtan.org](http://www.dtan.org)
 - **Certifications:** [View Certifications](https://tinyurl.com/3jdcfhkp)
 
 ### :handshake: Let's Collaborate
