@@ -15,7 +15,7 @@ My goal is to contribute to impactful projects and advance technological develop
   - Master in Artificial Intelligence
   - Master in Computer Science
   - Master in Aerospace Engineering 
-- **PhD Degree: Computer Science**
+- **PhD's Degree: Computer Science**
 
 ### :link: Connect With Me
 - **YouTube Channel:** [Watch Here](https://tinyurl.com/p8psyuhv)
