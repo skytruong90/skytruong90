@@ -9,11 +9,13 @@
 My goal is to contribute to impactful projects and advance technological development.
 
 ### :mortar_board: Educations:
-- **Bachelor's Degree in Computer Science** 2022
+- **Bachelor's Degree: Computer Science**
 - **Master's Degrees:**
-  - MBA 2023
-  - Master in Cybersecurity 2025
-  - Master in Computer Science 2026
+  - MBA
+  - Master in Artificial Intelligence
+  - Master in Computer Science
+  - Master in Aerospace Engineering 
+- **PhD Degree: Computer Science**
 
 ### :link: Connect With Me
 - **YouTube Channel:** [Watch Here](https://tinyurl.com/p8psyuhv)
