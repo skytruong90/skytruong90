@@ -12,10 +12,9 @@ My goal is to contribute to impactful projects and advance technological develop
 - **Bachelor's Degree: Computer Science**
 - **Master's Degrees:**
   - MBA
-  - Master in Artificial Intelligence
+  - Bachelor in Computer Science
   - Master in Computer Science
   - Master in Aerospace Engineering 
-- **PhD's Degree: Computer Science**
 
 ### :link: Connect With Me
 - **YouTube Channel:** [Watch Here](https://tinyurl.com/p8psyuhv)
