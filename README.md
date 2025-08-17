@@ -11,10 +11,10 @@ My goal is to contribute to impactful projects and advance technological develop
 ### :mortar_board: Educations:
 - **Bachelor's Degree: Computer Science**
 - **Master's Degrees:**
-  - MBA
-  - Bachelor in Computer Science
-  - Master in Computer Science
-  - Master in Electrical Engineering 
+  - MBA from LSU
+  - Bachelor in Computer Science from Valdosta State University
+  - Master in Computer Science from Georgia Institute of Technology
+  - Master in Electrical Engineering from Johns Hopkins University
 
 ### :link: Connect With Me
 - **YouTube Channel:** [Watch Here](https://tinyurl.com/p8psyuhv)
