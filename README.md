@@ -14,7 +14,7 @@ My goal is to contribute to impactful projects and advance technological develop
   - MBA
   - Bachelor in Computer Science
   - Master in Computer Science
-  - Master in Aerospace Engineering 
+  - Master in Electrical Engineering 
 
 ### :link: Connect With Me
 - **YouTube Channel:** [Watch Here](https://tinyurl.com/p8psyuhv)
