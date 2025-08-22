@@ -17,7 +17,7 @@
 
 - 📜 **Certifications**
   - [View My Certifications](https://tinyurl.com/3jdcfhkp)  
-  - PMP | CSM | Security+ | Linux+  
+  - PMP | CISSP | Security+ | Linux+  
 
 - 🎯 **Objective**
   > To design and build **secure, scalable, and resilient systems** for the defense industry and beyond.  
