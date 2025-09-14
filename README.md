@@ -78,7 +78,7 @@
 ## 🌐 Connect With Me  
 
 - 🎥 **YouTube:** [Watch Here](https://tinyurl.com/p8psyuhv)  
-- 📧 **Email:** dqtruong@valdosta.edu  
+- 📧 **Email:** david.k.tan2@gmail.com
 - 📱 **Phone:** (404) 452-8263  
 
 ---
