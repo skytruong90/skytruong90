@@ -12,7 +12,8 @@
 - 🎓 **Education**
   - B.S. **Computer Science** – Valdosta State University  
   - M.S. **Computer Science** – Georgia Tech  
-  - M.S. **Electrical Engineering** – Johns Hopkins University  
+  - M.S. **Electrical Engineering** – Johns Hopkins University
+  - M.S. **Aerospace Engineering** – Purdue University    
   - MBA – Louisiana State University  
 
 - 📜 **Certifications**
