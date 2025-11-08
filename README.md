@@ -4,7 +4,7 @@
 
 🚀 **Software & DevOps Engineer | Defense Systems | Active Clearanace**  
 💻 Focused on **C++, Python, DevOps automation, and secure mission-critical systems**  
-🌎 Passionate about **advancing defense technology & aerospace innovation**  
+🌎 Passionate about **defense technology & aerospace innovation**  
 
 ---
 
