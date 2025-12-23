@@ -66,16 +66,25 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=skytruong90&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <!-- Contribution Snake (Light + Dark mode support) -->
+  <img src="https://raw.githubusercontent.com/skytruong90/skytruong90/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/skytruong90/skytruong90/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Dark" />
 
   <br/><br/>
 
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skytruong90&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 
   <br/><br/>
 
+  <!-- Top Languages + General Stats side-by-side -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skytruong90&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=skytruong90&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+
+  <br/><br/>
+
+  <!-- Trophies full width -->
+  <img src="https://github-profile-trophy.vercel.app/?username=skytruong90&theme=radical&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
 
 </div>
 ---
