@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/skytruong90/skytruong90/main/assets/cyber-defense.gif)](https://github.com/skytruong90)
 
-# 👋 Hi, I’m **David K. Tan**
+# 👋 Welcome!**
 
 🚀 **Software Engineer | AWS Certified | Active TS/SAP Clearanace**  
 💻 Focused on **C++, Python, CI/CD pipeline, Java, and Kubernetes**  
