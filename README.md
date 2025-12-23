@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/skytruong90/skytruong90/main/assets/cyber-defense.gif)](https://github.com/skytruong90)
 
-# 👋 Hi, I’m **David Kingsley Tan**
+# 👋 Hi, I’m **David K. Tan**
 
 🚀 **Software & DevOps Engineer | Defense Systems | Active Clearanace**  
 💻 Focused on **C++, Python, DevOps automation, and secure mission-critical systems**  
