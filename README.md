@@ -69,33 +69,32 @@
   <!-- Contribution Snake (auto light/dark) -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+            srcset="https://raw.githubusercontent.com/skytruong90/skytruong90/output/github-contribution-grid-snake-dark.svg" />
     <img alt="Contribution Snake"
-         src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+         src="https://raw.githubusercontent.com/skytruong90/skytruong90/output/github-contribution-grid-snake.svg" />
   </picture>
 
   <br/><br/>
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skytruong90&theme=radical&hide_border=true"
        alt="GitHub Streak Stats" />
 
   <br/><br/>
 
   <!-- Top Languages + General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skytruong90&layout=compact&theme=radical&hide_border=true"
        alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true"
+  <img src="https://github-readme-stats.vercel.app/api?username=skytruong90&show_icons=true&theme=radical&hide_border=true"
        alt="GitHub Stats" />
 
   <br/><br/>
 
   <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&margin-w=15&row=1"
+  <img src="https://github-profile-trophy.vercel.app/?username=skytruong90&theme=radical&no-frame=true&margin-w=15&row=1"
        alt="GitHub Trophies" />
 
 </div>
-
 ---
 
 ## 🌐 Connect With Me  
