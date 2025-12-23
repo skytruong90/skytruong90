@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m **David K. Tan**
 
-🚀 **Software & DevOps Engineer | Defense Systems | Active Clearanace**  
+🚀 **Software Engineer | AWS Certified | Active TS/SAP Clearanace**  
 💻 Focused on **C++, Python, DevOps automation, and secure mission-critical systems**  
 🌎 Passionate about **defense technology & aerospace innovation**  
 
