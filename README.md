@@ -62,7 +62,7 @@
 *Git automation scripts for modular repo management in classified environments.*  
 
 ---
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -76,26 +76,14 @@
 
   <br/><br/>
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skytruong90&theme=radical&hide_border=true"
-       alt="GitHub Streak Stats" />
-
-  <br/><br/>
-
   <!-- Top Languages + General Stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skytruong90&layout=compact&theme=radical&hide_border=true"
        alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=skytruong90&show_icons=true&theme=radical&hide_border=true"
        alt="GitHub Stats" />
 
-  <br/><br/>
-
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=skytruong90&theme=radical&no-frame=true&margin-w=15&row=1"
-       alt="GitHub Trophies" />
-
 </div>
----
+
 
 ## 🌐 Connect With Me  
 
