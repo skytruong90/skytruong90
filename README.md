@@ -3,7 +3,7 @@
 # 👋 Hi, I’m **David K. Tan**
 
 🚀 **Software Engineer | AWS Certified | Active TS/SAP Clearanace**  
-💻 Focused on **C++, Python, CI/CD, automation, and Kubernetes**  
+💻 Focused on **C++, Python, CI/CD pipeline, Java, and Kubernetes**  
 🌎 Passionate about **defense technology & aerospace innovation**  
 
 ---
