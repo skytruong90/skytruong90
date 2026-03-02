@@ -2,7 +2,7 @@
 
 # 👋 **Hey There**
 
-🚀 **Modeling and Simulation Engineer | AWS Certified | TS/SAP Clearanace**  
+🚀 **Modeling and Simulation Engineer | AWS Certified | Active Clearanace**  
 💻 Focused on **C++, Python, CI/CD pipeline, Java, and Kubernetes**  
 🌎 Passionate about **defense technology & aerospace innovation**  
 
