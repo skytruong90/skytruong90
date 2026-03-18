@@ -2,7 +2,7 @@
 
 # 👋 **Hey There**
 
-🚀 **Software Engineer | AWS Certified | Active Clearanace**  
+🚀 **Modeling and Simulation Engineer | AWS Certified | Active Clearanace**  
 💻 Focused on **C++, Python, CI/CD pipeline, Java, and Kubernetes**  
 🌎 Passionate about **defense software technology & innovation**  
 
