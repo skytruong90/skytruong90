@@ -22,7 +22,6 @@ name        : David Tan
 role        : Modeling & Simulation Engineer
 focus       : Defense Software Technology & Innovation
 clearance   : Active
-location    : Huntsville, AL
 objective   : Design and build secure, scalable, and resilient systems
               for the defense industry — where reliability isn't a feature,
               it's a requirement.
