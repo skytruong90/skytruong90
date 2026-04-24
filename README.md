@@ -174,7 +174,7 @@ Bash/Git scripting suite for large-scale monorepo management in restricted envir
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║   CLEARANCE VERIFIED · MISSION READY · HUNTSVILLE, AL   ║
+║          CLEARANCE VERIFIED · MISSION READY              ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
