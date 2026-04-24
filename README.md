@@ -15,7 +15,7 @@
 
 ---
 
-## `> whoami`
+## `Hey There`
 
 ```yaml
 name        : David Tan
@@ -30,7 +30,7 @@ objective   : Design and build secure, scalable, and resilient systems
 
 ---
 
-## `> cat education.log`
+## `My Educations:`
 
 | Degree | Institution | Field |
 |--------|-------------|-------|
@@ -40,7 +40,7 @@ objective   : Design and build secure, scalable, and resilient systems
 
 ---
 
-## `> ls certifications/`
+## `My Certifications:`
 
 <div align="center">
 
@@ -57,7 +57,7 @@ objective   : Design and build secure, scalable, and resilient systems
 
 ---
 
-## `> cat tech_arsenal.sh`
+## `My Skills:`
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++17-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -84,7 +84,7 @@ objective   : Design and build secure, scalable, and resilient systems
 
 ---
 
-## `> ls projects/ --classified`
+## `My Projects:`
 
 <table>
 <tr>
@@ -139,7 +139,7 @@ Bash/Git scripting suite for large-scale monorepo management in restricted envir
 
 ---
 
-## `> cat github_stats.md`
+## `My Activities:`
 
 <div align="center">
 
@@ -159,8 +159,6 @@ Bash/Git scripting suite for large-scale monorepo management in restricted envir
 </div>
 
 ---
-
-## `> ping comms`
 
 <div align="center">
 
