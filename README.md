@@ -9,7 +9,6 @@
 ![Active Clearance](https://img.shields.io/badge/%E2%97%8F%20ACTIVE_CLEARANCE-VERIFIED-00FF88?style=for-the-badge&labelColor=050A0F)
 ![AWS Certified](https://img.shields.io/badge/AWS-CERTIFIED-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=050A0F)
 ![PMP](https://img.shields.io/badge/PMP-CERTIFIED-00C8FF?style=for-the-badge&labelColor=050A0F)
-![CISSP](https://img.shields.io/badge/CISSP-CERTIFIED-A78BFA?style=for-the-badge&labelColor=050A0F)
 
 </div>
 
