@@ -185,7 +185,7 @@ Bash/Git scripting suite for large-scale monorepo management in restricted envir
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-[![Profile Views](https://komarev.com/ghpvc/?username=skytruong90&color=00C8FF&style=flat-square&label=PROFILE+VIEWS)](https://www.linkedin.com/in/dtan90/)
+[![Profile Views](https://komarev.com/ghpvc/?username=skytruong90&color=00C8FF&style=flat-square&label=PROFILE+VIEWS)](https://davidktan.com)
 
 
 </div>
