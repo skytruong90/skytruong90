@@ -149,9 +149,9 @@ Bash/Git scripting suite for large-scale monorepo management in restricted envir
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=skytruong90&show_icons=true&theme=github_dark&hide_border=true&bg_color=050A0F&title_color=00C8FF&icon_color=00C8FF&text_color=C8D8E8" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=skytruong90&show_icons=true&theme=github_dark&hide_border=true&bg_color=050A0F&title_color=00C8FF&icon_color=00C8FF&text_color=C8D8E8&cache_seconds=86400" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skytruong90&layout=compact&theme=github_dark&hide_border=true&bg_color=050A0F&title_color=00C8FF&text_color=C8D8E8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skytruong90&layout=compact&theme=github_dark&hide_border=true&bg_color=050A0F&title_color=00C8FF&text_color=C8D8E8&cache_seconds=86400" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=skytruong90&theme=github-dark-blue&hide_border=true&background=050A0F&stroke=00C8FF&ring=00C8FF&fire=FF9900&currStreakLabel=00C8FF" alt="GitHub Streak" />
 
