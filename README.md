@@ -149,9 +149,17 @@ Bash/Git scripting suite for large-scale monorepo management in restricted envir
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=skytruong90&show_icons=true&theme=github_dark&hide_border=true&bg_color=050A0F&title_color=00C8FF&icon_color=00C8FF&text_color=C8D8E8&cache_seconds=86400" alt="GitHub Stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=skytruong90&bg_color=050A0F&color=00C8FF&line=00C8FF&point=FF9900&area_color=00C8FF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skytruong90&layout=compact&theme=github_dark&hide_border=true&bg_color=050A0F&title_color=00C8FF&text_color=C8D8E8&cache_seconds=86400" alt="Top Languages" />
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skytruong90&theme=github_dark" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skytruong90&theme=github_dark" alt="Most Commits" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skytruong90&theme=github_dark" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skytruong90&theme=github_dark" alt="Productive Time" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=skytruong90&theme=github-dark-blue&hide_border=true&background=050A0F&stroke=00C8FF&ring=00C8FF&fire=FF9900&currStreakLabel=00C8FF" alt="GitHub Streak" />
 
