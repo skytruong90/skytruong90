@@ -22,7 +22,7 @@ Role        : Software Engineer
 Focus       : Defense Software Technology & Innovation
 Clearance   : Active
 Objective   : Design and build secure, scalable, and resilient systems
-              for the defense industry — where reliability isn't a feature,
+              for the defense industry, where reliability is not just a feature,
               it's a requirement.
 ```
 
