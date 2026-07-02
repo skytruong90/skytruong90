@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=MODELING+%26+SIMULATION+ENGINEER;DEFENSE+SYSTEMS+%7C+ACTIVE+CLEARANCE;C%2B%2B+%7C+Python+%7C+Kubernetes+%7C+AWS;BUILDING+SECURE%2C+SCALABLE+SYSTEMS)](https://github.com/skytruong90)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=SOFTWARE+ENGINEER;DEFENSE+SYSTEMS+%7C+ACTIVE+CLEARANCE;C%2B%2B+%7C+Python+%7C+Kubernetes+%7C+AWS;BUILDING+SECURE%2C+SCALABLE+SYSTEMS)](https://github.com/skytruong90)
 
 </div>
 
@@ -17,11 +17,11 @@
 ## `Hi There`
 
 ```yaml
-name        : David Tan
-role        : Modeling & Simulation Engineer
-focus       : Defense Software Technology & Innovation
-clearance   : Active
-objective   : Design and build secure, scalable, and resilient systems
+Name        : David Tan
+Role        : Modeling & Simulation Engineer
+Focus       : Defense Software Technology & Innovation
+Clearance   : Active
+Objective   : Design and build secure, scalable, and resilient systems
               for the defense industry — where reliability isn't a feature,
               it's a requirement.
 ```
