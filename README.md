@@ -18,7 +18,7 @@
 
 ```yaml
 Name        : David Tan
-Role        : Modeling & Simulation Engineer
+Role        : Software Engineer
 Focus       : Defense Software Technology & Innovation
 Clearance   : Active
 Objective   : Design and build secure, scalable, and resilient systems
