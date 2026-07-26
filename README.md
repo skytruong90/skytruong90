@@ -32,6 +32,7 @@ Objective   : Design and build secure, scalable, and resilient systems
 | Degree | Institution | Field |
 |--------|-------------|-------|
 | **M.S.** | Georgia Institute of Technology | Computer Science |
+| **M.S.** | Colorado State University | Aerospace Engineering |
 | **MBA** | Louisiana State University | Business Administration |
 | **B.S.** | Valdosta State University | Computer Science |
 
