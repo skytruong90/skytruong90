@@ -19,7 +19,7 @@
 ```yaml
 Name        : David Tan
 Role        : Software Engineer
-Focus       : Aerospace Defense Software
+Focus       : Aerospace
 Clearance   : Active
 Objective   : Design and build secure, scalable, and resilient systems
               for the defense industry.
