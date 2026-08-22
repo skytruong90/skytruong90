@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Animated engineering proof points">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#050A0F"/><stop offset=".5" stop-color="#07131D"/><stop offset="1" stop-color="#050A0F"/></linearGradient>
+    <filter id="g" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="1" y="1" width="1198" height="168" rx="16" fill="url(#bg)" stroke="#173A4D"/>
+  <text x="30" y="30" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#6E8D9E" letter-spacing="2">ENGINEERING PROOF POINTS</text>
+  <circle cx="242" cy="25" r="3" fill="#00FF88" filter="url(#g)"><animate attributeName="opacity" values=".25;1;.25" dur="1.5s" repeatCount="indefinite"/></circle>
+
+  <g font-family="'Segoe UI',Arial,sans-serif" text-anchor="middle">
+    <g transform="translate(155 100)">
+      <circle r="48" fill="none" stroke="#123040" stroke-width="7"/>
+      <circle r="48" fill="none" stroke="#00C8FF" stroke-width="7" stroke-linecap="round" stroke-dasharray="238 64" transform="rotate(-90)"><animate attributeName="stroke-dashoffset" values="36;0;36" dur="4.6s" repeatCount="indefinite"/></circle>
+      <text y="7" font-size="30" font-weight="700" fill="#F4F9FC">48</text>
+      <text y="74" font-size="12" fill="#8FB4C7" letter-spacing="1">VALIDATION CHECKS</text>
+    </g>
+    <g transform="translate(445 100)">
+      <circle r="48" fill="none" stroke="#123040" stroke-width="7"/>
+      <circle r="48" fill="none" stroke="#9B8CFF" stroke-width="7" stroke-linecap="round" stroke-dasharray="222 80" transform="rotate(-90)"><animate attributeName="stroke-dashoffset" values="30;0;30" dur="5.2s" repeatCount="indefinite"/></circle>
+      <text y="7" font-size="30" font-weight="700" fill="#F4F9FC">44</text>
+      <text y="74" font-size="12" fill="#AAA2D5" letter-spacing="1">TRACKING TESTS</text>
+    </g>
+    <g transform="translate(745 100)">
+      <circle r="48" fill="none" stroke="#123040" stroke-width="7"/>
+      <circle r="48" fill="none" stroke="#00FFB2" stroke-width="7" stroke-linecap="round" stroke-dasharray="268 34" transform="rotate(-90)"><animate attributeName="stroke-dashoffset" values="42;0;42" dur="5.8s" repeatCount="indefinite"/></circle>
+      <text y="5" font-size="26" font-weight="700" fill="#F4F9FC">2,000</text>
+      <text y="74" font-size="12" fill="#91CEB9" letter-spacing="1">MONTE CARLO CASES</text>
+    </g>
+    <g transform="translate(1045 100)">
+      <circle r="48" fill="none" stroke="#123040" stroke-width="7"/>
+      <circle r="48" fill="none" stroke="#FFB84D" stroke-width="7" stroke-linecap="round" stroke-dasharray="188 114" transform="rotate(-90)"><animate attributeName="stroke-dashoffset" values="26;0;26" dur="4.9s" repeatCount="indefinite"/></circle>
+      <text y="7" font-size="30" font-weight="700" fill="#F4F9FC">4</text>
+      <text y="74" font-size="12" fill="#C8AA80" letter-spacing="1">FAULT CLASSES</text>
+    </g>
+  </g>
+
+  <rect x="-180" y="1" width="150" height="168" fill="#00C8FF" opacity=".025"><animate attributeName="x" from="-180" to="1230" dur="8s" repeatCount="indefinite"/></rect>
+</svg>
