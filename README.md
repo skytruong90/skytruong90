@@ -11,6 +11,10 @@
 ![PMP](https://img.shields.io/badge/PMP-Certified-00C8FF?style=for-the-badge&labelColor=071018)
 ![Profile Views](https://komarev.com/ghpvc/?username=skytruong90&color=00C8FF&style=for-the-badge&label=Profile+Views)
 
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-davidktan.com-00C8FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=071018)](https://davidktan.com)
+
 </div>
 
 <img src="https://raw.githubusercontent.com/skytruong90/skytruong90/main/assets/pulse-divider.svg" width="100%" alt="Animated telemetry divider" />
@@ -20,6 +24,8 @@
 I build software at the intersection of **aerospace engineering, defense modeling & simulation, distributed systems, and secure platforms**.
 
 My projects are intentionally centered on real engineering problems: propagating vehicle states, closing guidance and control loops, estimating tracks from noisy sensors, measuring uncertainty through Monte Carlo analysis, moving telemetry across distributed systems, and validating software with repeatable tests.
+
+🌐 **Portfolio:** [davidktan.com](https://davidktan.com)
 
 <table>
 <tr>
@@ -225,7 +231,7 @@ A documented **atmospheric-entry simulator** combining a layered atmosphere, Mac
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/davidktan.com-Visit%20Portfolio-00C8FF?style=for-the-badge&labelColor=071018)](https://davidktan.com)
+[![Website](https://img.shields.io/badge/davidktan.com-Visit%20Portfolio-00C8FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=071018)](https://davidktan.com)
 [![Email](https://img.shields.io/badge/Email-Contact-00C8FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=071018)](mailto:david.k.tan2@gmail.com)
 
 <br/>
