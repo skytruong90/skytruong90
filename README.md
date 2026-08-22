@@ -69,7 +69,7 @@ DevSecOps
 
 <img src="https://raw.githubusercontent.com/skytruong90/skytruong90/main/assets/pulse-divider.svg" width="100%" alt="Animated telemetry divider" />
 
-## Featured Engineering Systems
+## Projects
 
 <table>
 <tr>
