@@ -198,7 +198,7 @@ A documented **C++17 atmospheric-entry simulator** combining a layered atmospher
 
 </div>
 
-### Engineering Methods
+### Methods
 
 `6-DOF Dynamics` · `GNC` · `Monte Carlo` · `RK4` · `Kalman Filtering` · `Track Management` · `Sensor Modeling` · `Fault Injection` · `V&V` · `Distributed Systems` · `Telemetry` · `CI/CD`
 
@@ -218,7 +218,7 @@ A documented **C++17 atmospheric-entry simulator** combining a layered atmospher
 
 </div>
 
-## Education & Credentials
+## Education
 
 | | |
 |---|---|
