@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="88" viewBox="0 0 1200 88" role="img" aria-label="Animated engineering focus strip">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#04090E"/><stop offset=".5" stop-color="#07131D"/><stop offset="1" stop-color="#04090E"/></linearGradient>
+    <linearGradient id="beam" x1="0" x2="1"><stop offset="0" stop-color="#00C8FF" stop-opacity="0"/><stop offset=".5" stop-color="#00C8FF" stop-opacity=".55"/><stop offset=".75" stop-color="#9B8CFF" stop-opacity=".35"/><stop offset="1" stop-color="#00FFB2" stop-opacity="0"/></linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="2.5" result="g"/><feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="1" y="1" width="1198" height="86" rx="14" fill="url(#bg)" stroke="#173A4D"/>
+  <rect x="-240" y="1" width="220" height="86" fill="url(#beam)" opacity=".12"><animate attributeName="x" from="-240" to="1220" dur="6.8s" repeatCount="indefinite"/></rect>
+  <g font-family="Consolas,'Courier New',monospace">
+    <circle cx="34" cy="27" r="5" fill="#00FF88" filter="url(#glow)"><animate attributeName="opacity" values=".3;1;.3" dur="1.5s" repeatCount="indefinite"/></circle>
+    <text x="50" y="32" font-size="14" fill="#C9F4E7">SYSTEMS ONLINE</text>
+    <circle cx="186" cy="27" r="2.2" fill="#27495A"/>
+    <text x="198" y="32" font-size="12" fill="#78DFFF">MODELING &amp; SIMULATION</text>
+    <circle cx="386" cy="27" r="2.2" fill="#27495A"/>
+    <text x="398" y="32" font-size="12" fill="#BDB1FF">GNC</text>
+    <circle cx="446" cy="27" r="2.2" fill="#27495A"/>
+    <text x="458" y="32" font-size="12" fill="#78DFFF">SENSORS &amp; TRACKING</text>
+    <circle cx="650" cy="27" r="2.2" fill="#27495A"/>
+    <text x="662" y="32" font-size="12" fill="#A5FFE3">V&amp;V</text>
+    <circle cx="718" cy="27" r="2.2" fill="#27495A"/>
+    <text x="730" y="32" font-size="12" fill="#FFD18C">SECURE PLATFORMS</text>
+  </g>
+
+  <path d="M28 60H1172" stroke="#17394C" stroke-width="1"/>
+  <path d="M28 60H1172" stroke="#00C8FF" stroke-opacity=".14" stroke-width="1"/>
+  <g fill="#00C8FF" filter="url(#glow)">
+    <circle cy="60" r="3"><animate attributeName="cx" values="30;1168" dur="8.2s" repeatCount="indefinite"/></circle>
+    <circle cy="60" r="2" opacity=".6"><animate attributeName="cx" values="30;1168" dur="8.2s" begin="-2.73s" repeatCount="indefinite"/></circle>
+    <circle cy="60" r="2" opacity=".42"><animate attributeName="cx" values="30;1168" dur="8.2s" begin="-5.46s" repeatCount="indefinite"/></circle>
+  </g>
+  <g font-family="Consolas,'Courier New',monospace" font-size="10" fill="#587B8D">
+    <text x="28" y="79">6DOF</text><text x="188" y="79">AUTOPILOT</text><text x="380" y="79">RADAR</text><text x="544" y="79">KALMAN</text><text x="704" y="79">MONTE CARLO</text><text x="902" y="79">KUBERNETES</text><text x="1080" y="79">DEVSECOPS</text>
+  </g>
+</svg>
