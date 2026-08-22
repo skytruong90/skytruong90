@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Animated aerospace engineering portfolio flow">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060B10"/>
+      <stop offset="1" stop-color="#0A1620"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="0" x2="1">
+      <stop offset="0" stop-color="#00C8FF"/>
+      <stop offset="0.5" stop-color="#7C5CFC"/>
+      <stop offset="1" stop-color="#00FFB2"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="188" rx="16" fill="url(#bg)" stroke="#17394C"/>
+  <text x="38" y="35" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#6E8D9E" letter-spacing="2">ENGINEERING PIPELINE // SIGNAL FLOW</text>
+
+  <path id="route" d="M90 112 C190 112 210 72 300 72 S430 138 520 116 S650 64 740 83 S870 142 960 112 S1065 76 1120 94" fill="none" stroke="#23475A" stroke-width="3"/>
+  <path d="M90 112 C190 112 210 72 300 72 S430 138 520 116 S650 64 740 83 S870 142 960 112 S1065 76 1120 94" fill="none" stroke="url(#flow)" stroke-width="2" stroke-dasharray="10 12" opacity="0.7">
+    <animate attributeName="stroke-dashoffset" values="0;-44" dur="2.4s" repeatCount="indefinite"/>
+  </path>
+
+  <g font-family="Consolas, 'Courier New', monospace" font-size="11" text-anchor="middle">
+    <g transform="translate(90 112)">
+      <circle r="21" fill="#07131B" stroke="#00C8FF" stroke-width="2"/>
+      <circle r="5" fill="#00C8FF" filter="url(#glow)"><animate attributeName="r" values="4;7;4" dur="2s" repeatCount="indefinite"/></circle>
+      <text y="44" fill="#C6EFFF">6DOF</text>
+      <text y="58" fill="#5F8193">DYNAMICS</text>
+    </g>
+    <g transform="translate(300 72)">
+      <circle r="21" fill="#07131B" stroke="#7C5CFC" stroke-width="2"/>
+      <path d="M-9 5L0-10L9 5Z" fill="none" stroke="#B9A8FF" stroke-width="2"/>
+      <text y="44" fill="#E0D8FF">GNC</text>
+      <text y="58" fill="#6F6796">CONTROL</text>
+    </g>
+    <g transform="translate(520 116)">
+      <circle r="21" fill="#07131B" stroke="#FFB84D" stroke-width="2"/>
+      <circle r="12" fill="none" stroke="#FFB84D" stroke-opacity=".35"/>
+      <path d="M0 0L17-7A19 19 0 0 1 19 0Z" fill="#FFB84D" opacity=".35"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3.5s" repeatCount="indefinite"/></path>
+      <text y="44" fill="#FFD6A0">SENSORS</text>
+      <text y="58" fill="#8B7356">RADAR / IMU</text>
+    </g>
+    <g transform="translate(740 83)">
+      <circle r="21" fill="#07131B" stroke="#00C8FF" stroke-width="2"/>
+      <path d="M-9 5L-2-4L4 1L10-9" fill="none" stroke="#7CDFFF" stroke-width="2"/>
+      <text y="44" fill="#C6EFFF">TRACKING</text>
+      <text y="58" fill="#5F8193">ESTIMATION</text>
+    </g>
+    <g transform="translate(960 112)">
+      <circle r="21" fill="#07131B" stroke="#00FFB2" stroke-width="2"/>
+      <path d="M-9 0H9M0-9V9" stroke="#A7FFE1" stroke-width="2"/>
+      <text y="44" fill="#C7FFE9">V&amp;V</text>
+      <text y="58" fill="#5D927E">MONTE CARLO</text>
+    </g>
+    <g transform="translate(1120 94)">
+      <circle r="21" fill="#07131B" stroke="#00FFB2" stroke-width="2"/>
+      <rect x="-9" y="-7" width="18" height="14" rx="2" fill="none" stroke="#A7FFE1" stroke-width="2"/>
+      <text y="44" fill="#C7FFE9">PLATFORM</text>
+      <text y="58" fill="#5D927E">MISSION DATA</text>
+    </g>
+  </g>
+
+  <circle r="5" fill="#FFFFFF" filter="url(#glow)">
+    <animateMotion dur="7.5s" repeatCount="indefinite" rotate="auto"><mpath href="#route"/></animateMotion>
+  </circle>
+  <circle r="3.5" fill="#00C8FF" opacity="0.65" filter="url(#glow)">
+    <animateMotion dur="7.5s" begin="-2.5s" repeatCount="indefinite" rotate="auto"><mpath href="#route"/></animateMotion>
+  </circle>
+  <circle r="3" fill="#00FFB2" opacity="0.5" filter="url(#glow)">
+    <animateMotion dur="7.5s" begin="-5s" repeatCount="indefinite" rotate="auto"><mpath href="#route"/></animateMotion>
+  </circle>
+</svg>
