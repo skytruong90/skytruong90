@@ -19,7 +19,7 @@
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <style>
-      .grid{stroke:#17364A;stroke-width:1;opacity:.35}.star{fill:#7CDFFF}.label{font-family:'Segoe UI',Arial,sans-serif;letter-spacing:4px}.mono{font-family:'Consolas','Courier New',monospace}.pulse{animation:pulse 1.8s ease-in-out infinite}.tw1{animation:tw 2.8s ease-in-out infinite}.tw2{animation:tw 3.8s ease-in-out infinite reverse}.tw3{animation:tw 4.6s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}@keyframes tw{0%,100%{opacity:.18}50%{opacity:.95}}
+      .grid{stroke:#17364A;stroke-width:1;opacity:.35}.star{fill:#7CDFFF}.label{font-family:'Segoe UI',Arial,sans-serif;letter-spacing:4px}.mono{font-family:'Consolas','Courier New',monospace}.pulse{animation:pulse 1.8s ease-in-out infinite}.tw1{animation:tw 2.8s ease-in-out infinite}.tw2{animation:tw 3.8s ease-in-out infinite reverse}.tw3{animation:tw 4.6s ease-in-out infinite}.g1{animation:pulse 2.2s ease-in-out infinite}.g2{animation:pulse 2.2s .35s ease-in-out infinite}.g3{animation:pulse 2.2s .7s ease-in-out infinite}.g4{animation:pulse 2.2s 1.05s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}@keyframes tw{0%,100%{opacity:.18}50%{opacity:.95}}
     </style>
   </defs>
 
@@ -50,26 +50,38 @@
     <line x1="0" y1="-94" x2="0" y2="94" stroke="#00FFB2" stroke-opacity=".12"/>
     <circle cx="38" cy="-42" r="3" fill="#00FFB2" filter="url(#glow)" class="pulse"/>
     <circle cx="-48" cy="22" r="2.5" fill="#00C8FF" filter="url(#glow)" class="pulse"/>
+    <text x="-72" y="120" class="mono" font-size="10" fill="#6E8D9E">TELEMETRY LINK</text>
+    <circle cx="24" cy="116" r="3" fill="#00FF88" filter="url(#glow)" class="pulse"/>
+    <text x="34" y="120" class="mono" font-size="10" fill="#00FFB2">ACTIVE</text>
   </g>
 
   <path id="trajectory" d="M720 235 C790 175 850 120 930 88 C965 74 995 64 1038 58" fill="none" stroke="#00C8FF" stroke-opacity=".28" stroke-width="2" stroke-dasharray="7 8"/>
   <circle r="4" fill="#FFFFFF" filter="url(#glow)">
-    <animateMotion dur="6.5s" repeatCount="indefinite" rotate="auto">
-      <mpath href="#trajectory"/>
-    </animateMotion>
+    <animateMotion dur="6.5s" repeatCount="indefinite" rotate="auto"><mpath href="#trajectory"/></animateMotion>
   </circle>
 
   <g transform="translate(74 76)">
     <text class="label" x="0" y="0" fill="#74DFFF" font-size="15">SOFTWARE ENGINEER • AEROSPACE &amp; DEFENSE</text>
     <text class="mono" x="0" y="60" fill="#F4F8FB" font-size="46" font-weight="700">DAVID K. TAN</text>
-    <text class="label" x="2" y="100" fill="#9FC4D8" font-size="14">MODELING &amp; SIMULATION  /  MISSION SOFTWARE  /  SECURE SYSTEMS</text>
+    <text class="label" x="2" y="100" fill="#9FC4D8" font-size="14">MODELING &amp; SIMULATION  •  MISSION SOFTWARE  •  SECURE SYSTEMS</text>
   </g>
 
   <g transform="translate(76 226)" class="mono" font-size="13">
-    <rect x="0" y="0" width="410" height="34" rx="8" fill="#08121C" stroke="#17394C"/>
+    <rect x="0" y="0" width="548" height="34" rx="8" fill="#08121C" stroke="#17394C"/>
     <circle cx="18" cy="17" r="5" fill="#00FF88" filter="url(#glow)" class="pulse"/>
     <text x="33" y="22" fill="#BFE7F5">SYSTEM STATUS: ONLINE</text>
-    <text x="205" y="22" fill="#5F8699">//</text>
-    <text x="233" y="22" fill="#74DFFF">6DOF  GNC  RADAR  V&amp;V</text>
+    <circle cx="222" cy="17" r="2.5" fill="#00C8FF" class="g1"/>
+    <text x="235" y="22" fill="#74DFFF" class="g1">6DOF</text>
+    <circle cx="286" cy="17" r="2.5" fill="#00C8FF" class="g2"/>
+    <text x="299" y="22" fill="#74DFFF" class="g2">GNC</text>
+    <circle cx="340" cy="17" r="2.5" fill="#00C8FF" class="g3"/>
+    <text x="353" y="22" fill="#74DFFF" class="g3">RADAR</text>
+    <circle cx="420" cy="17" r="2.5" fill="#00C8FF" class="g4"/>
+    <text x="433" y="22" fill="#74DFFF" class="g4">V&amp;V</text>
+    <g transform="translate(485 9)" stroke="#00FFB2" stroke-width="2" stroke-linecap="round">
+      <path d="M0 8h8l4-6 6 14 6-10 5 2h20" fill="none" opacity=".65">
+        <animate attributeName="opacity" values=".25;1;.25" dur="1.6s" repeatCount="indefinite"/>
+      </path>
+    </g>
   </g>
 </svg>
