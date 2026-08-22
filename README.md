@@ -1,137 +1,190 @@
 <div align="center">
 
-![David Tan — Aerospace & Defense Software Engineer](assets/profile-banner.svg)
-
-# Aerospace software, simulation, digital engineering, and secure mission platforms
-
-![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Repositories-100-2ea44f?style=flat-square&logo=github)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=SOFTWARE+ENGINEER;DEFENSE+SYSTEMS+%7C+ACTIVE+CLEARANCE;C%2B%2B+%7C+Python+%7C+Kubernetes+%7C+AWS;BUILDING+SECURE%2C+SCALABLE+SYSTEMS)](https://github.com/skytruong90)
 
 </div>
 
-## About me
+<div align="center">
 
-I build software at the intersection of aerospace engineering, modeling & simulation, digital engineering, software quality, and secure cloud-native infrastructure. My public GitHub portfolio uses synthetic, non-sensitive engineering scenarios to demonstrate how I approach simulation architecture, verification, telemetry, state estimation, automation, and resilient software delivery.
+![Active Clearance](https://img.shields.io/badge/%E2%97%8F%20ACTIVE_CLEARANCE-VERIFIED-00FF88?style=for-the-badge&labelColor=050A0F)
+![AWS Certified](https://img.shields.io/badge/AWS-CERTIFIED-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=050A0F)
+![PMP](https://img.shields.io/badge/PMP-CERTIFIED-00C8FF?style=for-the-badge&labelColor=050A0F)
 
-```text
-Primary focus   Aerospace modeling & simulation
-Engineering     Flight dynamics • GNC • sensors • Monte Carlo • digital twins
-Software        C++ • Python • Linux • Git • automated testing
-Platform        Containers • Kubernetes • CI/CD • infrastructure as code
-Quality         Verification • regression testing • determinism • traceability
-Security        DevSecOps • hardening • software supply-chain assurance
+</div>
+
+---
+
+## `Hi There`
+
+```yaml
+Name        : David Tan
+Role        : Software Engineer
+Focus       : Aerospace
+Clearance   : Active
+Objective   : Design and build secure, scalable, and resilient systems
+              for the defense industry.
 ```
 
-## Portfolio map
+---
 
-| Area | What the repositories demonstrate | Start here |
-|---|---|---|
-| Aerospace digital engineering | digital twins, simulation orchestration, model provenance | [Aerospace Digital Twin Platform](https://github.com/skytruong90/Aerospace-Digital-Twin-Platform) |
-| Flight dynamics & GNC | deterministic dynamics, guidance/control, navigation, state estimation | [Multi-Rate 6DOF Flight Simulator](https://github.com/skytruong90/Multi-Rate-6DOF-Flight-Simulator) |
-| Navigation & sensors | INS error propagation, GPS-denied operation, sensor faults and calibration | [GPS-Denied Navigation Lab](https://github.com/skytruong90/GPS-Denied-Navigation-Lab) |
-| Verification & validation | SIL/HIL-style harnesses, Monte Carlo V&V, determinism, quality gates | [Flight Software Fault Injection Framework](https://github.com/skytruong90/Flight-Software-Fault-Injection-Framework) |
-| Telemetry & analytics | recording, streaming, anomaly detection, data quality, health monitoring | [Flight Data Recorder](https://github.com/skytruong90/Flight-Data-Recorder) |
-| Cyber-resilient aerospace | secure telemetry, avionics integrity, SBOM and supply-chain analysis | [Cyber-Resilient Avionics Bus](https://github.com/skytruong90/Cyber-Resilient-Avionics-Bus) |
-| Mission platform engineering | Kubernetes, GitOps, observability, distributed simulation infrastructure | [Hardened Kubernetes Aerospace Lab](https://github.com/skytruong90/Hardened-Kubernetes-Aerospace-Lab) |
+## `My Educations:`
 
-## Featured engineering projects
+| Degree | Institution | Field |
+|--------|-------------|-------|
+| **M.S.** | Georgia Institute of Technology | Computer Science |
+| **M.S.** | Colorado State University | Aerospace Engineering |
+| **MBA** | Louisiana State University | Business Administration |
+| **B.S.** | Valdosta State University | Computer Science |
+
+---
+
+## `My Certifications:`
+
+<div align="center">
+
+[![Certifications](https://img.shields.io/badge/View_All_Certifications-%E2%86%97-00C8FF?style=for-the-badge&labelColor=0A1628)](https://tinyurl.com/3jdcfhkp)
+
+</div>
+
+```
+[✓] PMP      — Project Management Professional
+[✓] CISSP    — Certified Information Systems Security Professional
+[✓] Sec+     — CompTIA Security+
+[✓] Linux+   — CompTIA Linux+
+```
+
+---
+
+## `My Skills:`
+
+### Languages
+![C++](https://img.shields.io/badge/C++17-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### DevOps / Infrastructure
+![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### OS / Tooling
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## `My Projects:`
 
 <table>
 <tr>
 <td width="50%">
 
-### [Aerospace Digital Twin Platform](https://github.com/skytruong90/Aerospace-Digital-Twin-Platform)
+### 🔒 [Airgap-Bundler](https://github.com/skytruong90/airgap-bundler)
+**Secure file packaging for defense air-gapped environments.**
 
-A synthetic vehicle digital twin connecting flight-state propagation, noisy sensors, Kalman estimation, health monitoring, anomaly detection, replayable telemetry, and Monte Carlo analysis.
+Handles manifests, EXIF metadata stripping, AV scanning, and cryptographic verification — built for classified environments where network isolation is non-negotiable.
 
-`Python` · `NumPy` · `State Estimation` · `Digital Engineering`
-
-</td>
-<td width="50%">
-
-### [Multi-Rate 6DOF Flight Simulator](https://github.com/skytruong90/Multi-Rate-6DOF-Flight-Simulator)
-
-A deterministic aerospace simulation architecture focused on multi-rate scheduling, state propagation, repeatable test scenarios, and analysis-ready outputs.
-
-`Simulation` · `Flight Dynamics` · `V&V` · `CI`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [GPS-Denied Navigation Lab](https://github.com/skytruong90/GPS-Denied-Navigation-Lab)
-
-Synthetic navigation lab for studying inertial drift, intermittent aiding, navigation integrity, estimation error, and recovery behavior.
-
-`Navigation` · `INS` · `Sensor Fusion` · `Monte Carlo`
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Security](https://img.shields.io/badge/Air--Gap-Defense-red?style=flat-square)
 
 </td>
 <td width="50%">
 
-### [Flight Data Recorder](https://github.com/skytruong90/Flight-Data-Recorder)
+### ⚡ [SentinelScore](https://github.com/skytruong90/SentinelScore)
+**C++17 threat prioritization engine for defense systems.**
 
-C++17 telemetry recorder/replay pipeline with a versioned binary format, event flags, corruption checks, CSV/JSON export, plotting, and automated tests.
+High-performance scoring engine designed for mission-critical environments — sub-millisecond threat ranking under operational constraints.
 
-`C++17` · `Telemetry` · `Binary I/O` · `CMake`
+![C++](https://img.shields.io/badge/C++17-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Defense](https://img.shields.io/badge/Threat_Intel-Defense-red?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### [Cyber-Resilient Avionics Bus](https://github.com/skytruong90/Cyber-Resilient-Avionics-Bus)
+### 🔧 [Supersonic Monorepo Tools](https://github.com/skytruong90/supersonic-tools)
+**Git automation for classified modular environments.**
 
-Defensive aerospace software example centered on message integrity, validation, resilience monitoring, and auditable synthetic avionics traffic.
+Bash/Git scripting suite for large-scale monorepo management in restricted environments — streamlining multi-team workflows at classified scale.
 
-`Cybersecurity` · `Avionics` · `Integrity` · `Testing`
+![Bash](https://img.shields.io/badge/Bash-%23121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Automation-%23F05033?style=flat-square)
 
 </td>
 <td width="50%">
 
-### [Defense Simulation Data Platform](https://github.com/skytruong90/Defense-Simulation-Data-Platform)
+### 🛰️ Open to Collaboration
+**Currently accepting mission briefs for:**
+- Defense & aerospace software
+- DevOps pipelines & automation
+- Secure cloud-native architecture
 
-A simulation-data engineering project for reproducible ingestion, validation, lineage, analytics, and experiment-oriented data products.
-
-`Data Engineering` · `Simulation` · `Provenance` · `Analytics`
+![Status](https://img.shields.io/badge/Status-Available-00FF88?style=flat-square)
 
 </td>
 </tr>
 </table>
 
-## Engineering themes across the portfolio
+---
 
-- **Modeling & simulation:** deterministic time stepping, coordinate/state representations, scenario configuration, uncertainty campaigns, and analysis outputs.
-- **Guidance, navigation & control:** state estimation, navigation integrity, synthetic sensors, controller testbeds, and closed-loop simulation patterns.
-- **Software quality:** unit/integration tests, regression harnesses, reproducibility checks, fault injection, requirements traceability, and CI quality gates.
-- **Platform engineering:** container security, Kubernetes policy, GitOps, observability, distributed workloads, and infrastructure validation.
-- **Cyber-resilience:** integrity checks, least privilege, software supply-chain analysis, secure telemetry, defensive anomaly monitoring, and hardening.
-- **Data engineering:** telemetry pipelines, streaming events, data-quality rules, experiment tracking, provenance, and Monte Carlo analytics.
-
-## How I structure portfolio repositories
-
-Each substantial project is designed to answer four questions quickly:
-
-1. **What engineering problem does this solve?** — the README starts with scope, assumptions, and architecture.
-2. **Can I run it?** — projects include explicit setup/run commands and deterministic example scenarios.
-3. **Can I trust the implementation?** — tests, validation, CI, and machine-readable outputs are included where appropriate.
-4. **What did the project teach?** — READMEs document engineering lessons, tradeoffs, limitations, and next steps.
-
-## Public-data / safety note
-
-The aerospace and defense-themed repositories on this profile are public educational software projects. They use synthetic or generic parameters and are not representations of classified systems, real operational performance, targeting logic, flight-qualified software, or government certification.
-
-## Connect
+## `My Activities:`
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-davidktan.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://davidktan.com)
-[![Email](https://img.shields.io/badge/Email-david.k.tan2%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david.k.tan2@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://tinyurl.com/p8psyuhv)
-[![Certifications](https://img.shields.io/badge/Certifications-View-7C3AED?style=for-the-badge)](https://tinyurl.com/3jdcfhkp)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skytruong90/skytruong90/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/skytruong90/skytruong90/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=skytruong90&bg_color=050A0F&color=00C8FF&line=00C8FF&point=FF9900&area_color=00C8FF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skytruong90&theme=github_dark" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skytruong90&theme=github_dark" alt="Most Commits" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skytruong90&theme=github_dark" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skytruong90&theme=github_dark" alt="Productive Time" />
+
+<img src="https://streak-stats.demolab.com/?user=skytruong90&theme=github-dark-blue&hide_border=true&background=050A0F&stroke=00C8FF&ring=00C8FF&fire=FF9900&currStreakLabel=00C8FF" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-david.k.tan2%40gmail.com-00C8FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050A0F)](mailto:david.k.tan2@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch_Here-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=050A0F)](https://tinyurl.com/p8psyuhv)
+[![Certifications](https://img.shields.io/badge/Certifications-View_All-A78BFA?style=for-the-badge&labelColor=050A0F)](https://tinyurl.com/3jdcfhkp)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║          CLEARANCE VERIFIED · MISSION READY              ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+[![Profile Views](https://komarev.com/ghpvc/?username=skytruong90&color=00C8FF&style=flat-square&label=PROFILE+VIEWS)](https://davidktan.com)
+
 
 </div>
