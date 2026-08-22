@@ -154,7 +154,7 @@ A documented **C++17 atmospheric-entry simulator** combining a layered atmospher
 
 ### Points
 
-<img src="https://raw.githubusercontent.com/skytruong90/skytruong90/main/assets/proof-points.svg" width="100%" alt="Animated engineering proof points" />
+<img src="https://raw.githubusercontent.com/skytruong90/skytruong90/main/assets/proof-points-v2.svg" width="100%" alt="Animated engineering proof points" />
 
 <sub>Representative public-project metrics: 48 automated validation checks in the 6-DOF simulation, 44 tracking tests in SentinelTrack, a documented 2,000-case Monte Carlo run, and four modeled fault classes in the resilience testbed.</sub>
 
