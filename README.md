@@ -65,6 +65,10 @@ DevSecOps
   <img src="https://raw.githubusercontent.com/skytruong90/skytruong90/main/assets/portfolio-flow.svg" width="100%" alt="Animated aerospace engineering portfolio flow" />
 </a>
 
+### Engineering Telemetry
+
+<img src="https://raw.githubusercontent.com/skytruong90/skytruong90/main/assets/telemetry-console.svg" width="100%" alt="Animated aerospace engineering telemetry console" />
+
 <img src="https://raw.githubusercontent.com/skytruong90/skytruong90/main/assets/pulse-divider.svg" width="100%" alt="Animated telemetry divider" />
 
 ## Featured Systems
