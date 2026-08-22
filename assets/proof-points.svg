@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Animated engineering proof points">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Animated engineering proof points">
   <defs>
     <linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#050A0F"/><stop offset=".5" stop-color="#07131D"/><stop offset="1" stop-color="#050A0F"/></linearGradient>
     <filter id="g" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
-  <rect x="1" y="1" width="1198" height="168" rx="16" fill="url(#bg)" stroke="#173A4D"/>
+  <rect x="1" y="1" width="1198" height="188" rx="16" fill="url(#bg)" stroke="#173A4D"/>
   <text x="30" y="30" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#6E8D9E" letter-spacing="2">ENGINEERING PROOF POINTS</text>
   <circle cx="242" cy="25" r="3" fill="#00FF88" filter="url(#g)"><animate attributeName="opacity" values=".25;1;.25" dur="1.5s" repeatCount="indefinite"/></circle>
 
@@ -34,5 +34,5 @@
     </g>
   </g>
 
-  <rect x="-180" y="1" width="150" height="168" fill="#00C8FF" opacity=".025"><animate attributeName="x" from="-180" to="1230" dur="8s" repeatCount="indefinite"/></rect>
+  <rect x="-180" y="1" width="150" height="188" fill="#00C8FF" opacity=".025"><animate attributeName="x" from="-180" to="1230" dur="8s" repeatCount="indefinite"/></rect>
 </svg>
