@@ -2,30 +2,23 @@
 
 <img src="https://raw.githubusercontent.com/skytruong90/skytruong90/main/assets/mission-header.svg" width="100%" alt="David K. Tan aerospace software engineering animated banner" />
 
-<br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=800&color=00C8FF&center=true&vCenter=true&width=900&lines=6-DOF+FLIGHT+DYNAMICS+%E2%80%A2+GNC+%E2%80%A2+MONTE+CARLO;RADAR+TRACKING+%E2%80%A2+SENSOR+FUSION+%E2%80%A2+STATE+ESTIMATION;MISSION+SOFTWARE+%E2%80%A2+TELEMETRY+%E2%80%A2+DISTRIBUTED+SYSTEMS;LINUX+%E2%80%A2+KUBERNETES+%E2%80%A2+CLOUD+%E2%80%A2+DEVSECOPS;BUILDING+SECURE%2C+TESTABLE%2C+MISSION-READY+SYSTEMS)](https://github.com/skytruong90)
 
 ![Active Clearance](https://img.shields.io/badge/Active%20Clearance-00C853?style=for-the-badge&labelColor=071018)
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=071018)
 ![PMP](https://img.shields.io/badge/PMP-Certified-00C8FF?style=for-the-badge&labelColor=071018)
 ![Profile Views](https://komarev.com/ghpvc/?username=skytruong90&color=00C8FF&style=for-the-badge&label=Profile+Views)
-
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-davidktan.com-00C8FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=071018)](https://davidktan.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-davidktan.com-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=071018)](https://davidktan.com)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/skytruong90/skytruong90/main/assets/pulse-divider.svg" width="100%" alt="Animated telemetry divider" />
+<img src="https://raw.githubusercontent.com/skytruong90/skytruong90/main/assets/system-strip.svg" width="100%" alt="Animated aerospace engineering system status strip" />
 
 ## About Me
 
 I build software at the intersection of **aerospace engineering, defense modeling & simulation, distributed systems, and secure platforms**.
 
-My projects are intentionally centered on real engineering problems: propagating vehicle states, closing guidance and control loops, estimating tracks from noisy sensors, measuring uncertainty through Monte Carlo analysis, moving telemetry across distributed systems, and validating software with repeatable tests.
-
-🌐 **Portfolio:** [davidktan.com](https://davidktan.com)
+My projects are centered on real engineering problems: propagating vehicle states, closing guidance and control loops, estimating tracks from noisy sensors, measuring uncertainty through Monte Carlo analysis, moving telemetry across distributed systems, and validating software with repeatable tests.
 
 <table>
 <tr>
@@ -67,6 +60,10 @@ DevSecOps
 </td>
 </tr>
 </table>
+
+<a href="https://davidktan.com">
+  <img src="https://raw.githubusercontent.com/skytruong90/skytruong90/main/assets/portfolio-flow.svg" width="100%" alt="Animated aerospace engineering portfolio flow" />
+</a>
 
 <img src="https://raw.githubusercontent.com/skytruong90/skytruong90/main/assets/pulse-divider.svg" width="100%" alt="Animated telemetry divider" />
 
@@ -233,9 +230,6 @@ A documented **atmospheric-entry simulator** combining a layered atmosphere, Mac
 
 [![Website](https://img.shields.io/badge/davidktan.com-Visit%20Portfolio-00C8FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=071018)](https://davidktan.com)
 [![Email](https://img.shields.io/badge/Email-Contact-00C8FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=071018)](mailto:david.k.tan2@gmail.com)
-
-<br/>
-
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=071018)](https://tinyurl.com/p8psyuhv)
 [![Credentials](https://img.shields.io/badge/Credentials-View%20All-A78BFA?style=for-the-badge&labelColor=071018)](https://tinyurl.com/3jdcfhkp)
 
