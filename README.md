@@ -214,8 +214,6 @@ A documented **C++17 atmospheric-entry simulator** combining a layered atmospher
   <img alt="Animated GitHub contribution path" src="https://raw.githubusercontent.com/skytruong90/skytruong90/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-<sub>Animated contribution path generated from this GitHub profile.</sub>
-
 </div>
 
 ## Education
