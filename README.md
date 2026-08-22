@@ -160,7 +160,7 @@ Bash/Git scripting suite for large-scale monorepo management in restricted envir
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skytruong90&theme=github_dark" alt="Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skytruong90&theme=github_dark" alt="Productive Time" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=skytruong90&theme=github-dark-blue&hide_border=true&background=050A0F&stroke=00C8FF&ring=00C8FF&fire=FF9900&currStreakLabel=00C8FF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=skytruong90&theme=github-dark-blue&hide_border=true&background=050A0F&stroke=00C8FF&ring=00C8FF&fire=FF9900&currStreakLabel=00C8FF" alt="GitHub Streak" />
 
 </div>
 
