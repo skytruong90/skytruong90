@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/skytruong90/skytruong90/main/assets/system-strip.svg" width="100%" alt="Animated aerospace engineering system status strip" />
+<img src="https://raw.githubusercontent.com/skytruong90/skytruong90/main/assets/system-strip-v2.svg" width="100%" alt="Animated aerospace engineering system status strip" />
 
 ## About Me
 
