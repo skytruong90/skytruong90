@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="214" viewBox="0 0 1200 214" role="img" aria-label="Animated aerospace engineering systems view">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#050A0F"/><stop offset=".5" stop-color="#07131D"/><stop offset="1" stop-color="#050A0F"/></linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="2.3" result="g"/><feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>.m{font-family:Consolas,'Courier New',monospace}.s{font-family:'Segoe UI',Arial,sans-serif;letter-spacing:1.5px}</style>
+  </defs>
+  <rect x="1" y="1" width="1198" height="212" rx="16" fill="url(#bg)" stroke="#173A4D"/>
+  <text x="26" y="28" class="m" font-size="13" fill="#7CDFFF">ENGINEERING SYSTEMS VIEW</text>
+  <circle cx="226" cy="23" r="3" fill="#00FF88" filter="url(#glow)"><animate attributeName="opacity" values=".25;1;.25" dur="1.5s" repeatCount="indefinite"/></circle>
+  <text x="238" y="28" class="m" font-size="11" fill="#5D8295">FLIGHT • SENSORS • VERIFICATION</text>
+
+  <g transform="translate(24 46)">
+    <rect width="360" height="140" rx="12" fill="#06111A" stroke="#16384A"/>
+    <text x="18" y="24" class="s" font-size="11" fill="#A7D5E8">FLIGHT DYNAMICS &amp; GNC</text>
+    <text x="18" y="43" class="m" font-size="10" fill="#56798A">STATE PROPAGATION • CONTROL RESPONSE</text>
+    <path d="M18 107H342M18 77H342" stroke="#17394C" stroke-width="1" opacity=".48"/>
+    <path d="M18 95 C43 90 57 64 80 73 S121 112 148 90 S188 54 214 70 S255 106 281 82 S319 61 342 69" fill="none" stroke="#00C8FF" stroke-width="2.4" stroke-dasharray="8 7" filter="url(#glow)"><animate attributeName="stroke-dashoffset" values="120;0" dur="4.1s" repeatCount="indefinite"/></path>
+    <circle r="4" fill="#00FFB2" filter="url(#glow)"><animateMotion path="M18 95 C43 90 57 64 80 73 S121 112 148 90 S188 54 214 70 S255 106 281 82 S319 61 342 69" dur="5.3s" repeatCount="indefinite"/></circle>
+    <text x="18" y="130" class="m" font-size="10" fill="#6E8D9E">6DOF</text><text x="82" y="130" class="m" font-size="10" fill="#6E8D9E">RK4</text><text x="133" y="130" class="m" font-size="10" fill="#6E8D9E">GNC</text><text x="188" y="130" class="m" font-size="10" fill="#6E8D9E">AUTOPILOT</text>
+  </g>
+
+  <g transform="translate(420 46)">
+    <rect width="360" height="140" rx="12" fill="#06111A" stroke="#16384A"/>
+    <text x="18" y="24" class="s" font-size="11" fill="#C3B9FF">SENSORS &amp; TRACKING</text>
+    <text x="18" y="43" class="m" font-size="10" fill="#665F86">RADAR • ESTIMATION • ASSOCIATION</text>
+    <g transform="translate(180 92)">
+      <circle r="46" fill="none" stroke="#9B8CFF" stroke-opacity=".17"/><circle r="30" fill="none" stroke="#00C8FF" stroke-opacity=".20"/><circle r="14" fill="none" stroke="#00C8FF" stroke-opacity=".28"/>
+      <path d="M0 0 L43 -13 A45 45 0 0 1 45 0 Z" fill="#9B8CFF" opacity=".13"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/></path>
+      <circle cx="27" cy="-20" r="3" fill="#00FF88" filter="url(#glow)"><animate attributeName="opacity" values=".2;1;.2" dur="1.7s" repeatCount="indefinite"/></circle>
+      <circle cx="-31" cy="11" r="2.5" fill="#9B8CFF" filter="url(#glow)"><animate attributeName="opacity" values="1;.25;1" dur="2.1s" repeatCount="indefinite"/></circle>
+      <circle cx="8" cy="31" r="2.5" fill="#00C8FF" filter="url(#glow)"><animate attributeName="opacity" values=".3;1;.3" dur="1.4s" repeatCount="indefinite"/></circle>
+    </g>
+    <text x="18" y="130" class="m" font-size="10" fill="#6E8D9E">KALMAN</text><text x="91" y="130" class="m" font-size="10" fill="#6E8D9E">TRACKING</text><text x="181" y="130" class="m" font-size="10" fill="#6E8D9E">FUSION</text><text x="250" y="130" class="m" font-size="10" fill="#6E8D9E">TELEMETRY</text>
+  </g>
+
+  <g transform="translate(816 46)">
+    <rect width="360" height="140" rx="12" fill="#06111A" stroke="#16384A"/>
+    <text x="18" y="24" class="s" font-size="11" fill="#A6FFE2">VERIFICATION &amp; RESILIENCE</text>
+    <text x="18" y="43" class="m" font-size="10" fill="#5E8E7D">MONTE CARLO • TESTING • FAULT INJECTION</text>
+    <g transform="translate(20 59)">
+      <rect x="0" y="44" width="22" height="21" rx="3" fill="#17394C"><animate attributeName="height" values="21;47;21" dur="2.5s" repeatCount="indefinite"/><animate attributeName="y" values="44;18;44" dur="2.5s" repeatCount="indefinite"/></rect>
+      <rect x="38" y="31" width="22" height="34" rx="3" fill="#00C8FF" opacity=".72"><animate attributeName="height" values="34;54;34" dur="2.9s" repeatCount="indefinite"/><animate attributeName="y" values="31;11;31" dur="2.9s" repeatCount="indefinite"/></rect>
+      <rect x="76" y="21" width="22" height="44" rx="3" fill="#00FFB2" opacity=".72"><animate attributeName="height" values="44;25;44" dur="2.2s" repeatCount="indefinite"/><animate attributeName="y" values="21;40;21" dur="2.2s" repeatCount="indefinite"/></rect>
+      <rect x="114" y="37" width="22" height="28" rx="3" fill="#9B8CFF" opacity=".75"><animate attributeName="height" values="28;50;28" dur="2.7s" repeatCount="indefinite"/><animate attributeName="y" values="37;15;37" dur="2.7s" repeatCount="indefinite"/></rect>
+      <path d="M160 50 C184 33 204 55 224 28 S266 50 286 25 S314 38 320 20" fill="none" stroke="#FFB84D" stroke-width="2" stroke-dasharray="6 5"><animate attributeName="stroke-dashoffset" values="80;0" dur="3.3s" repeatCount="indefinite"/></path>
+    </g>
+    <text x="18" y="130" class="m" font-size="10" fill="#6E8D9E">MONTE CARLO</text><text x="112" y="130" class="m" font-size="10" fill="#6E8D9E">V&amp;V</text><text x="165" y="130" class="m" font-size="10" fill="#6E8D9E">FAULTS</text><text x="228" y="130" class="m" font-size="10" fill="#6E8D9E">CI • TESTS</text>
+  </g>
+</svg>
