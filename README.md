@@ -14,7 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/skytruong90/skytruong90/main/assets/system-strip-v3.svg" width="100%" alt="Animated aerospace engineering focus strip" />
 
-## Engineering Profile
+## Summary
 
 I design and build software for **aerospace and defense modeling & simulation, mission systems, and secure compute environments**. My work spans physics-based flight dynamics, guidance and control, multi-sensor tracking, Monte Carlo verification, telemetry, distributed software, and cloud-native infrastructure.
 
