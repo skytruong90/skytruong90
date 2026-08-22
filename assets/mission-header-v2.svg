@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="David K. Tan aerospace and defense software engineering portfolio">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#04080D"/>
+      <stop offset="0.55" stop-color="#071521"/>
+      <stop offset="1" stop-color="#0A1020"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#00C8FF" stop-opacity="0"/>
+      <stop offset="0.48" stop-color="#00C8FF"/>
+      <stop offset="0.72" stop-color="#9B8CFF"/>
+      <stop offset="1" stop-color="#00FFB2" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="radar" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#00FFB2" stop-opacity="0.17"/>
+      <stop offset="1" stop-color="#00FFB2" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono{font-family:Consolas,'Courier New',monospace}.sans{font-family:'Segoe UI',Arial,sans-serif}.grid{stroke:#14354A;stroke-width:1;opacity:.28}.pulse{animation:pulse 1.8s ease-in-out infinite}.tw1{animation:tw 3.2s ease-in-out infinite}.tw2{animation:tw 4.4s ease-in-out infinite reverse}.tw3{animation:tw 5.2s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}@keyframes tw{0%,100%{opacity:.12}50%{opacity:.85}}
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="298" rx="20" fill="url(#bg)" stroke="#173B50"/>
+  <g opacity=".42">
+    <path class="grid" d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
+    <path class="grid" d="M100 0V300M200 0V300M300 0V300M400 0V300M500 0V300M600 0V300M700 0V300M800 0V300M900 0V300M1000 0V300M1100 0V300"/>
+  </g>
+
+  <g fill="#7CDFFF">
+    <circle class="tw1" cx="82" cy="42" r="1.6"/><circle class="tw2" cx="176" cy="82" r="1.2"/><circle class="tw3" cx="268" cy="34" r="1.4"/><circle class="tw1" cx="404" cy="66" r="1.1"/><circle class="tw2" cx="564" cy="40" r="1.5"/><circle class="tw3" cx="692" cy="90" r="1.2"/><circle class="tw1" cx="804" cy="48" r="1.5"/><circle class="tw2" cx="1098" cy="40" r="1.3"/>
+    <circle class="tw3" cx="122" cy="252" r="1.2"/><circle class="tw1" cx="312" cy="224" r="1.5"/><circle class="tw2" cx="506" cy="262" r="1.1"/><circle class="tw3" cx="732" cy="234" r="1.4"/><circle class="tw1" cx="1104" cy="250" r="1.3"/>
+  </g>
+
+  <rect x="-320" y="0" width="260" height="300" fill="url(#accent)" opacity=".07">
+    <animate attributeName="x" from="-320" to="1320" dur="7.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <g transform="translate(1008 148)">
+    <circle r="96" fill="url(#radar)" stroke="#00FFB2" stroke-opacity=".13"/>
+    <circle r="69" fill="none" stroke="#00C8FF" stroke-opacity=".17"/>
+    <circle r="41" fill="none" stroke="#00C8FF" stroke-opacity=".22"/>
+    <circle r="14" fill="none" stroke="#00C8FF" stroke-opacity=".25"/>
+    <path d="M0 0 L90 -22 A93 93 0 0 1 92 4 Z" fill="#00FFB2" opacity=".14">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5.2s" repeatCount="indefinite"/>
+    </path>
+    <line x1="-96" y1="0" x2="96" y2="0" stroke="#00C8FF" stroke-opacity=".08"/>
+    <line x1="0" y1="-96" x2="0" y2="96" stroke="#00C8FF" stroke-opacity=".08"/>
+    <circle cx="42" cy="-46" r="3" fill="#00FFB2" filter="url(#glow)" class="pulse"/>
+    <circle cx="-50" cy="18" r="2.5" fill="#9B8CFF" filter="url(#glow)" class="pulse"/>
+    <circle cx="18" cy="54" r="2.5" fill="#00C8FF" filter="url(#glow)" class="pulse"/>
+    <text x="-72" y="122" class="mono" font-size="10" fill="#6E8D9E">TELEMETRY LINK</text>
+    <circle cx="24" cy="118" r="3" fill="#00FF88" filter="url(#glow)" class="pulse"/>
+    <text x="35" y="122" class="mono" font-size="10" fill="#00FFB2">ACTIVE</text>
+  </g>
+
+  <path id="trajectory" d="M710 236 C782 190 840 132 913 98 C956 78 995 68 1044 57" fill="none" stroke="#00C8FF" stroke-opacity=".25" stroke-width="2" stroke-dasharray="6 8"/>
+  <circle r="4" fill="#FFFFFF" filter="url(#glow)">
+    <animateMotion dur="6.7s" repeatCount="indefinite" rotate="auto"><mpath href="#trajectory"/></animateMotion>
+  </circle>
+  <circle r="2.8" fill="#9B8CFF" opacity=".75" filter="url(#glow)">
+    <animateMotion dur="6.7s" begin="-3.35s" repeatCount="indefinite" rotate="auto"><mpath href="#trajectory"/></animateMotion>
+  </circle>
+
+  <g transform="translate(72 68)">
+    <text class="sans" x="0" y="0" fill="#72DFFF" font-size="14" letter-spacing="4">AEROSPACE • DEFENSE • SOFTWARE ENGINEERING</text>
+    <text class="mono" x="0" y="62" fill="#F3F8FB" font-size="48" font-weight="700">DAVID K. TAN</text>
+    <text class="sans" x="2" y="101" fill="#A4C1D2" font-size="14" letter-spacing="2.3">MODELING &amp; SIMULATION  •  MISSION SOFTWARE  •  SECURE SYSTEMS</text>
+    <text class="mono" x="2" y="136" fill="#5E8296" font-size="12">6DOF  •  GNC  •  RADAR &amp; TRACKING  •  MONTE CARLO  •  DEVSECOPS</text>
+  </g>
+
+  <g transform="translate(74 230)" class="mono" font-size="12">
+    <rect x="0" y="0" width="570" height="34" rx="9" fill="#07121B" stroke="#173A4D"/>
+    <circle cx="18" cy="17" r="5" fill="#00FF88" filter="url(#glow)" class="pulse"/>
+    <text x="34" y="22" fill="#C9F4E7">SYSTEMS ONLINE</text>
+    <circle cx="162" cy="17" r="2.3" fill="#00C8FF"/>
+    <text x="175" y="22" fill="#79DFFF">FLIGHT</text>
+    <circle cx="238" cy="17" r="2.3" fill="#9B8CFF"/>
+    <text x="251" y="22" fill="#BEB3FF">TRACKING</text>
+    <circle cx="340" cy="17" r="2.3" fill="#00FFB2"/>
+    <text x="353" y="22" fill="#9FFFE0">V&amp;V</text>
+    <circle cx="405" cy="17" r="2.3" fill="#FFB84D"/>
+    <text x="418" y="22" fill="#FFD18C">PLATFORMS</text>
+    <g transform="translate(504 9)" stroke="#00FFB2" stroke-width="2" stroke-linecap="round">
+      <path d="M0 8h8l4-6 6 14 6-10 5 2h30" fill="none" opacity=".65"><animate attributeName="opacity" values=".25;1;.25" dur="1.7s" repeatCount="indefinite"/></path>
+    </g>
+  </g>
+</svg>
