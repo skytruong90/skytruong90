@@ -64,7 +64,7 @@ DevSecOps
 </table>
 
 <a href="https://davidktan.com">
-  <img src="https://raw.githubusercontent.com/skytruong90/skytruong90/main/assets/portfolio-flow-v2.svg" width="100%" alt="Animated aerospace engineering portfolio flow" />
+  <img src="https://raw.githubusercontent.com/skytruong90/skytruong90/main/assets/portfolio-flow-v3.svg" width="100%" alt="Animated aerospace engineering portfolio flow" />
 </a>
 
 <img src="https://raw.githubusercontent.com/skytruong90/skytruong90/main/assets/pulse-divider.svg" width="100%" alt="Animated telemetry divider" />
